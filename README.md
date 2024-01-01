@@ -6,4 +6,5 @@
 <a href="https://hyperdgx.github.io/Coffee-Animation/">Github Deployed Page</a>
 <br>
 <br>
-<code>For restarting the animation, try to reload your browser everytime.</code>
+<code>How to restart animation?</code>
+<code> Try to reload your browser.</code>
