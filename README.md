@@ -8,5 +8,4 @@
 <br>
 <code>How to restart animation?</code>
 <br>
-<br>
 <code> Try to reload your browser.</code>
