@@ -1,1 +1,1 @@
-Coffee Animation using CASCADING STYLE SHEETS (CSS)
+Coffee Animation using Cascading Style Sheets (CSS)
